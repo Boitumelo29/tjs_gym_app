@@ -107,6 +107,7 @@ class EGPage4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.purple,
+      child: const Text("test"),
     );
   }
 }
